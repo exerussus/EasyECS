@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.exerussus.easyecs",
+  "author": "Exerussus",
+  "displayName": "Easy ECS",
+  "description": "Implementation of a very simple and fast start by esclite.",
+  "unity": "2022.3",
+  "version": "2023.12.12",
+  "keywords": [
+    "leoecslite",
+    "leoecs",
+    "ecs",
+    "performance",
+    "easyecs"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exerussus/EasyECS.git"
+  }
+}
